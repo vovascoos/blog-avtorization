@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f4f4f4;
+}
+nav {
+    background: #333;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+.post {
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.flash {
+    background: yellow;
+    padding: 10px;
+    list-style: none;
+}
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+button {
+    background: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
